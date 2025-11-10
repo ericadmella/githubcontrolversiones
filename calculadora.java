@@ -12,8 +12,7 @@ public class calculadora {
 		        System.out.println("Resta: " + (a - b));
 		        System.out.println("Multiplicación: " + (a * b));
 		        System.out.println("División: " + (a / b));
-		    
-		
+		        System.out.println("Potencia: "+ Math.pow(a, b));
 	}
 
 }
